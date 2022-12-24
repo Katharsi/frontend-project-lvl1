@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/Katharsi/frontend-project-lvl1#readme",
   "dependencies": {
-    "eslint": "^8.30.0",
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "eslint": "^8.30.0"
   }
 }
