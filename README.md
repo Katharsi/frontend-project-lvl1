@@ -31,7 +31,8 @@ ___
 - ***Good luck!***
 
 __
-3. starting the game - ```brain-gcd```
+
+3. starting the game - ```$ brain-gcd```
 
 >The user is shown two random numbers, for example, 25 50. The user must calculate and enter the greatest common divisor of these numbers.
 
@@ -41,4 +42,5 @@ __
 - *If you answer correctly, the game continues. Only 3 rounds</br>At the end of the game we will definitely congratulate you*
 - *If you answer incorrectly, then don't worry. After all, the game can be started again*
 - ***Good luck!***
+
 ___
