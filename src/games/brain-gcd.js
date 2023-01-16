@@ -1,5 +1,5 @@
 import getRandomInRange from '../getRandomNumbers.js';
-import runGame from '../index.js'
+import runGame from '../index.js';
 
 const descriptionGame = 'Find the greatest common divisor of given numbers.';
 
@@ -13,7 +13,7 @@ const getRoundsGame = () => {
 
   return [question, correctAnswer];
 };
-  
+
 const startGame = () => runGame(descriptionGame, getRoundsGame);
 
 export default startGame;
