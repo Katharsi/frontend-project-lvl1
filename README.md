@@ -56,3 +56,16 @@ ___
 - ***Good luck!***
 
 ___
+
+5. starting the game - ```$ brain-prime```
+
+>Is it a prime number?
+
+- *Run brain-prime*
+- *Welcome moment: write your name and we will definitely greet you*
+- *Get a question from us and give an answer to it*
+- *If you answer correctly, the game continues. Only 3 rounds</br>At the end of the game we will definitely congratulate you*
+- *If you answer incorrectly, then don't worry. After all, the game can be started again*
+- ***Good luck!***
+
+___
