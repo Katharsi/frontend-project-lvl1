@@ -1,7 +1,7 @@
 import getRandomInRange from '../getRandomNumbers.js';
 import runGame from '../index.js';
 
-const descriptionGame = 'Answer "yes" if the number is even, otherwise answer "no".';
+const descriptionGame = 'Answer "yes" if given number is prime. Otherwise answer "no".';
 
 const isPrime = (number) => {
   if (number < 2) {
